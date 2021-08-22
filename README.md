@@ -2,11 +2,11 @@
 <img width="1494" alt="Screen Shot 2021-08-22 at 12 36 38 PM" src="https://user-images.githubusercontent.com/28203059/130352094-bbf7fef4-0dd0-4389-a896-31205bbd96d3.png">
 
 
-# Hello everyone, This is all my sessions with GDGMENA (Google Developer Group Middle East North Africa) in MENADD - MENA Digital Days.
+# Hello everyone 🤗, This is all my sessions with GDGMENA (Google Developer Group Middle East North Africa) in MENADD - MENA Digital Days.
 
 ## Java, Android, Firebase, Flutter, Git, Chatbots and more...
 
-### My Tutorials here.
+### My Tutorials here:
 
 - how **How to build Chatbots with DialogFlow**  [Chatbots](https://youtu.be/C7G6D7zPfgM).
 - **How to build Google Assistant APP with DialogFLow**  [Google Assistant](https://youtu.be/F1gflmGvwTI?list=PLlqOXLg-GOqfVckh1Z5td5Z3YDoD1wizL).
