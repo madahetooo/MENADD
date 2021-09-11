@@ -22,6 +22,7 @@
 - **Android Development - Part1**  [Android](https://youtu.be/Q4XwD7yOibY?list=PLlqOXLg-GOqfVckh1Z5td5Z3YDoD1wizL).
 - **Android Development - Part2**  [Android](https://youtu.be/aPe9pOGLsE8?list=PLlqOXLg-GOqfVckh1Z5td5Z3YDoD1wizL).
 - **More Android UI Designs**  [Android](https://youtu.be/aPe9pOGLsE8).
+- **Android with Material Design**  [Android](https://youtu.be/cvEd1dVXI1w).
 
 
 <hr>
