@@ -25,6 +25,7 @@
 - **Android with Material Design**  [Android](https://youtu.be/cvEd1dVXI1w).
 - **Android with Material Design | Part 2**  [Android](https://youtu.be/lMG1mVdSafU).
 - **Android with Material Design | Part 3**  [Android](https://youtu.be/qR8alxoMkZk).
+- **Android with Material Design | Part 4 and The last one**  [Android](https://youtu.be/leG7sJNw-wE).
 
 
 <hr>
