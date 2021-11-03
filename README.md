@@ -26,7 +26,7 @@
 - **Android with Material Design | Part 2**  [Android](https://youtu.be/lMG1mVdSafU).
 - **Android with Material Design | Part 3**  [Android](https://youtu.be/qR8alxoMkZk).
 - **Android with Material Design | Part 4 and The last one**  [Android](https://youtu.be/leG7sJNw-wE).
-
+- **Kotlin for Java Developers**  [Android](https://youtu.be/uA_lconFWoM).
 
 <hr>
 
