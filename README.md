@@ -28,6 +28,7 @@
 - **Android with Material Design | Part 4 and The last one**  [Android](https://youtu.be/leG7sJNw-wE).
 - **Kotlin for Java Developers**  [Android](https://youtu.be/uA_lconFWoM).
 - **Firebase Authentication In Android with Kotlin**  [Firebase](https://youtu.be/Dyl8LwCgv9E).
+- **Firebase Authentication with Google Sign-in In Android with Kotlin**  [Firebase](https://youtu.be/JwCqWx8OizM).
 
 <hr>
 
