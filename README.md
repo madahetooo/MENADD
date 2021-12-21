@@ -29,7 +29,7 @@
 - **Kotlin for Java Developers**  [Android](https://youtu.be/uA_lconFWoM).
 - **Firebase Authentication In Android with Kotlin**  [Firebase](https://youtu.be/Dyl8LwCgv9E).
 - **Firebase Authentication with Google Sign-in In Android with Kotlin**  [Firebase](https://youtu.be/JwCqWx8OizM).
-
+- **How to save your username and profile picture with Firebase Authentication**  [Firebase](https://youtu.be/gy5toAvT-SU).
 <hr>
 
 # Also you can subscribe to my YOUTUBE Channel for more technical content 🥰
