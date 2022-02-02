@@ -30,6 +30,8 @@
 - **Firebase Authentication In Android with Kotlin**  [Firebase](https://youtu.be/Dyl8LwCgv9E).
 - **Firebase Authentication with Google Sign-in In Android with Kotlin**  [Firebase](https://youtu.be/JwCqWx8OizM).
 - **How to save your username and profile picture with Firebase Authentication**  [Firebase](https://youtu.be/gy5toAvT-SU).
+- **How to save your data with Firebase Firestore**  [Firebase](https://youtu.be/rRKMj53Qajg).
+- **How to work with CRUD Operations with Firebase Firestore**  [Firebase](https://youtu.be/aZxaO0vp1kY).
 <hr>
 
 # Also you can subscribe to my YOUTUBE Channel for more technical content 🥰
