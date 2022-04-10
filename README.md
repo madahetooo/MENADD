@@ -32,6 +32,8 @@
 - **How to save your username and profile picture with Firebase Authentication**  [Firebase](https://youtu.be/gy5toAvT-SU).
 - **How to save your data with Firebase Firestore**  [Firebase](https://youtu.be/rRKMj53Qajg).
 - **How to work with CRUD Operations with Firebase Firestore**  [Firebase](https://youtu.be/aZxaO0vp1kY).
+- **How to Save Photos with Firebase Storage**  [Firebase](https://youtu.be/kHa8Bvx-Fcs).
+- **How to Make todolist app with Firebase Firestore**  [Flutter](https://youtu.be/gm2_tTS-BvU).
 <hr>
 
 # Also you can subscribe to my YOUTUBE Channel for more technical content 🥰
