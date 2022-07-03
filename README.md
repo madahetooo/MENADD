@@ -34,6 +34,7 @@
 - **How to work with CRUD Operations with Firebase Firestore**  [Firebase](https://youtu.be/aZxaO0vp1kY).
 - **How to Save Photos with Firebase Storage**  [Firebase](https://youtu.be/kHa8Bvx-Fcs).
 - **How to Make todolist app with Firebase Firestore**  [Flutter](https://youtu.be/gm2_tTS-BvU).
+- **Whats New in Firebase 2022**  [Firebase](https://youtu.be/XPNzCwksh68).
 <hr>
 
 # Also you can subscribe to my YOUTUBE Channel for more technical content 🥰
